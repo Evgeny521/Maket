@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppRazrabotkaMaketa", "WpfAppRazrabotkaMaketa\WpfAppRazrabotkaMaketa.csproj", "{F4566BB6-92AC-409A-8E7F-4EA846A97A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4566BB6-92AC-409A-8E7F-4EA846A97A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4566BB6-92AC-409A-8E7F-4EA846A97A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4566BB6-92AC-409A-8E7F-4EA846A97A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4566BB6-92AC-409A-8E7F-4EA846A97A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3452CEC4-CD6A-4B79-A96E-50A1D4F68AF8}
+	EndGlobalSection
+EndGlobal
